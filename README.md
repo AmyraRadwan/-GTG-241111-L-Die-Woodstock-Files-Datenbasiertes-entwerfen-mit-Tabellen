@@ -1,2 +1,9 @@
-# -GTG-241111-L-Die-Woodstock-Files-Datenbasiertes-entwerfen-mit-Tabellen
-[11.11.24] In diesem Workshop lernen wir wie man Daten aus einer Google-Sheets Datei abruft, aufbereitet und schlussendlich umwandelt und animiert.
+# [GTG] Die Woodstock Files – Datenbasiertes entwerfen mit Tabellen
+
+### Inhalte:
++ Google Sheets Daten abrufen mit JavaScript
++ Auf- und Vorbereitung der Daten
++ Daten ausgeben, umwandeln und animieren
+
+### GitHub Download:
+Ladet euch das Ergebnis der zweiten Session herunter indem ihr auf den grünen Button »Code <>« clickt und dann auf »Download ZIP«.
